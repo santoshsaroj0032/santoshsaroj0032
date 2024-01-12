@@ -9,8 +9,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/santosh-saroj-573b33241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santosh-saroj-573b33241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shrishti2589/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shrishti2589/" height="30" width="40" /></a>
+ <a href="https://youtube.com/@Crazy_sun_akg?si=08KEDOCJxR6U3fVT" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://youtube.com/@Crazy_sun_akg/" height="30" width="40" />
+    <img align="center" src="your_youtube_image_url_here" alt="YouTube" height="30" width="40" />
+</a>
 
-  <a href="https://youtube.com/@Crazy_sun_akg?si=08KEDOCJxR6U3fVT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://youtube.com/@Crazy_sun_akg/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shrishti2589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shrishti2589" height="30" width="40" /></a>
 </p>
 
