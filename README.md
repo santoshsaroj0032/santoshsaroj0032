@@ -107,5 +107,4 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshsaroj0032&" alt="santoshsaroj0032" />
 </p>
-
-![Snake Eating Contributions](https://github.com/santoshsaroj0032/santoshsaroj0032/blob/output/github-contribution-grid-snake-dark.svg)
+ 
