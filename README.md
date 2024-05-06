@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/santoshsaroj0032/santoshsaroj0032/assets/118922022/b9b6a005-99e5-4392-b3fd-4dcd644604f7)
 
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate backend developer</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsaroj0032&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsaroj0032" /> </p>
