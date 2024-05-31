@@ -19,8 +19,9 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px" style="margin-right: 10px;">
- 
+    <img src="C:\Users\HP PC\Downloads\interviewbit.jpeg" width="60px" style="margin-right: 10px;">
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
