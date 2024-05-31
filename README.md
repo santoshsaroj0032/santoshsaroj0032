@@ -19,8 +19,7 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px" style="margin-right: 10px;">
-    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... (your base64 encoded string here)" width="60px" style="margin-right: 10px;">
-</p>
+ </p>
 
 
 
