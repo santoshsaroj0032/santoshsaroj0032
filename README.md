@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsaroj0032&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsaroj0032" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032" alt="santoshsaroj0032" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=santoshsaroj0032](https://camo.githubusercontent.com/00c75cf3e839252bbc2ef783f896d24495f2eb6b3d2538a32a59abc47810b371/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f43344531324151486f6861614a6d36714e4e772f61727469636c652d636f7665725f696d6167652d736872696e6b5f3432335f3735322f302f313633303532363435353337303f653d3137323234373034303026763d6265746126743d4668672d3353794b546432536e3657457854463555444c4577506850614466356748454b374e47616a556f)" alt="santoshsaroj0032" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
  
 
