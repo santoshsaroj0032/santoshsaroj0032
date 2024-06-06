@@ -6,7 +6,7 @@
 </h3>
 
 
- <p align="left">
+ <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=santoshsaroj0032&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsaroj0032" />
 </p>
 <p align="left">
