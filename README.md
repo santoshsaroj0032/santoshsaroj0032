@@ -9,7 +9,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032" alt="santoshsaroj0032" />
+    <img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032" alt="santoshsaroj0032"  style="border: 10px solid black; border-radius: 100px;/>
   </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border: 10px solid black; border-radius: 100px;">
