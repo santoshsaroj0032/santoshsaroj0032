@@ -1,7 +1,7 @@
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/santoshsaroj0032/santoshsaroj0032/assets/118922022/b9b6a005-99e5-4392-b3fd-4dcd644604f7)
 
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
-<h3 align="center">A passionate backend developer</h3> 
+<h3 align="center">A passionate backend developer style="font:bold"</h3> 
 
 
  <p align="left">
@@ -9,7 +9,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032" alt="santoshsaroj0032"  style="border: 10px solid black; border-radius: 100px;/>
+    <img src="https://github-profile-trophy.vercel.app/?username=santoshsaroj0032" alt="santoshsaroj0032"  />
   </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border: 10px solid black; border-radius: 100px;">
