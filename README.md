@@ -106,6 +106,9 @@
     <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
     </a>
+   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="pug" width="40" height="40"/> 
+    </a>
 </p>
 
 
