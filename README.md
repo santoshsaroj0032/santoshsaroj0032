@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
 <h3 align="center" style="font-weight: bold; font-family: 'Arial', sans-serif; color: #2c3e50; text-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1);">
-  A passionate Full Stack Developer
+  A Passionate Full Stack Developer
 </h3>
 
 <p align="left"> 
@@ -105,13 +105,15 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshsaroj0032&show_icons=true&locale=en&layout=compact" alt="santoshsaroj0032" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshsaroj0032&show_icons=true&locale=en&layout=compact" alt="santoshsaroj0032" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshsaroj0032&show_icons=true&locale=en" alt="santoshsaroj0032" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshsaroj0032&show_icons=true&locale=en" alt="santoshsaroj0032" />
 </p>
 
+
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshsaroj0032&" alt="santoshsaroj0032" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshsaroj0032&" alt="santoshsaroj0032" />
 </p>
+ 
