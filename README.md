@@ -109,7 +109,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshsaroj0032&show_icons=true&locale=en" alt="santoshsaroj0032" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshsaroj0032& " alt="santoshsaroj0032" />
 </p>
 
 <p>
