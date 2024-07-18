@@ -114,6 +114,6 @@
 
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshsaroj0032&" alt="santoshsaroj0032" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshsaroj0032" alt="santoshsaroj0032" />
 </p>
  
