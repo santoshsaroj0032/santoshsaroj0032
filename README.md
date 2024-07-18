@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
 <h3 align="center" style="font-weight: bold; font-family: 'Arial', sans-serif; color: #2c3e50; text-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1);">
-  A passionate backend developer
+  A passionate Full Stack Developer
 </h3>
 
 <p align="left"> 
