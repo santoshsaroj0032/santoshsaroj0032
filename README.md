@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="60px" style="margin-right: 10px;"> 
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="60px" style="margin-right: 10px;"> 
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="60px" style="margin-right: 10px;"> 
   <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="60px" style="margin-right: 10px;"> 
