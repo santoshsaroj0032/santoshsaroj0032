@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
 <h3 align="center" style="font-weight: bold; font-family: 'Arial', sans-serif; color: #2c3e50; text-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1);">  
   A Passionate Full Stack Developer
-</h3>
+</h3> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=santoshsaroj0032&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsaroj0032" />
