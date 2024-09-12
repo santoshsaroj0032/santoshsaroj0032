@@ -1,4 +1,4 @@
- ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/santoshsaroj0032/santoshsaroj0032/assets/118922022/b9b6a005-99e5-4392-b3fd-4dcd644604f7)
+  ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/santoshsaroj0032/santoshsaroj0032/assets/118922022/b9b6a005-99e5-4392-b3fd-4dcd644604f7)
 
 <h1 align="center">Hi 👋, I'm Santosh Saroj</h1>
 <h3 align="center" style="font-weight: bold; font-family: 'Arial', sans-serif; color: #2c3e50; text-shadow: 20px 20px 40px rgba(0, 0, 0, 0.1);">        
