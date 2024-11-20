@@ -19,7 +19,8 @@
 
 ## All DSA Badges @LeetCode
 <p align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-300.gif" width="60px" style="margin-right: 50px;">
+<!--       <img src="https://assets.leetcode.com/static_assets/marketing/2024-300.gif" width="60px" style="margin-right: 50px;"> -->
+  <img src="https://camo.githubusercontent.com/86b1a77f75109d62b4b44ed05d6f4a468edd400d775d3aaddfdf92e3aeb49968/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f7075626c69632f696d616765732f6261646765732f323032322f6769662f323032322d616e6e75616c2e676966" data-canonical-src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2024-annual.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 50px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
