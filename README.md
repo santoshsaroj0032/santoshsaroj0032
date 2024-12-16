@@ -20,7 +20,7 @@
 ## All DSA Badges @LeetCode
 <p align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="60px" style="margin-right: 50px;">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif " width="60px" style="margin-right: 50px;">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="60px" style="margin-right: 50px;">
      <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60px" style="margin-right: 50px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 10px;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
